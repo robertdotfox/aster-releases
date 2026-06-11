@@ -3,6 +3,9 @@
 Public download point for **Aster**, a conversation companion designed for
 presence over engagement.
 
+> 📖 **[Read what Aster is before you install →](WELCOME.md)**
+> A one-page intro to how Aster works and how to talk to it.
+
 The Aster source code is private; this repo exists only to host signed,
 notarized release builds so [Sparkle](https://sparkle-project.org/) on
 recipients' Macs can auto-update.
