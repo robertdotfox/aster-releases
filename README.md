@@ -1,3 +1,23 @@
+# The Aster Codex
+
+The writings the app rests on. Two books are shared publicly.
+
+### [Book I — The Heart of Aster](./codex/Book%20I%20%E2%80%94%20The%20Heart%20of%20Aster.md)
+
+The philosophical foundation. What wisdom is, why it cannot be given,
+and why Aster is built as a companion rather than an authority. If you
+want to know what Aster *is for*, start here.
+
+### [Book V — The Journey of Becoming](./codex/Book%20V%20%E2%80%94%20The%20Journey%20of%20Becoming.md)
+
+The lived version. Twelve chapters on conditions every person meets —
+stillness, fear, resistance, honesty, courage, suffering, identity,
+self-trust, change, love, meaning, flourishing — each paired with a
+conversation showing what participation actually looks like. If you
+want to know what *talking with Aster feels like*, read a chapter.
+
+---
+
 # Aster releases
 
 Public download point for **Aster**, a conversation companion designed for
