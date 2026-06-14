@@ -48,14 +48,16 @@ into the Releases tab. Same for the appcast Sparkle reads:
    which it uses for inference. Roughly:
    ```
    curl -fsSL https://claude.ai/install.sh | bash
+   echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
    claude          # sign in once
    ```
 5. Click "I've installed it — re-check" in Aster's onboarding panel and you're in.
 
 Recipient needs: an Apple Silicon Mac, macOS 26 (Tahoe) or later, and an
 Anthropic account (Claude Pro/Max or API). The install script puts the
-`claude` binary in `~/.claude/local/` and adds it to your PATH —
-no Node.js required.
+`claude` binary in `~/.local/bin/`; the second line adds that directory
+to your PATH and reloads the current shell so `claude` is immediately
+runnable. No Node.js required.
 
 ## Auto-update
 
