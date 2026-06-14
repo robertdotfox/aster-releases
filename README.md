@@ -47,13 +47,15 @@ into the Releases tab. Same for the appcast Sparkle reads:
    [Claude Code](https://docs.anthropic.com/en/docs/claude-code/quickstart),
    which it uses for inference. Roughly:
    ```
-   npm install -g @anthropic-ai/claude-code
+   curl -fsSL https://claude.ai/install.sh | bash
    claude          # sign in once
    ```
 5. Click "I've installed it — re-check" in Aster's onboarding panel and you're in.
 
-Recipient needs: an Apple Silicon Mac, macOS 26 (Tahoe) or later, Node.js,
-and an Anthropic account (Claude Pro/Max or API).
+Recipient needs: an Apple Silicon Mac, macOS 26 (Tahoe) or later, and an
+Anthropic account (Claude Pro/Max or API). The install script puts the
+`claude` binary in `~/.claude/local/` and adds it to your PATH —
+no Node.js required.
 
 ## Auto-update
 
