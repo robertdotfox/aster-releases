@@ -38,6 +38,14 @@ That link always resolves to the most recent release — no need to dig
 into the Releases tab. Same for the appcast Sparkle reads:
 [`appcast.xml`](https://github.com/robertdotfox/aster-releases/releases/latest/download/appcast.xml).
 
+## iOS (TestFlight beta)
+
+[**↓ Join the Aster iOS beta on TestFlight**](https://testflight.apple.com/join/ApdCzTSy)
+
+On your iPhone: install the free [TestFlight app](https://apps.apple.com/app/testflight/id899247664)
+if you don't have it, tap the link above, then tap **Accept** to start
+testing. New builds notify you automatically in TestFlight.
+
 ## Install
 
 1. Download `Aster.dmg`.
