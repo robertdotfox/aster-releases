@@ -34,7 +34,7 @@ On your iPhone: install the free [TestFlight app](https://apps.apple.com/app/tes
 if you don't have it, tap the link above, then tap **Accept** to start
 testing. New builds notify you automatically in TestFlight.
 
-## Download
+## MacOS
 
 [**↓ Aster (latest .dmg)**](https://github.com/robertdotfox/aster-releases/releases/latest/download/Aster.dmg)
 
